@@ -1,2 +1,3 @@
-# Roman-Numerals-Helper
-With this tool you can translate a normal number into a roman number.  
+Just a Roman Numeral Tool.
+
+Uses [clipboard.js](https://clipboardjs.com/) and [toastify-js](https://apvarun.github.io/toastify-js//).
